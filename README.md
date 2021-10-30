@@ -1,6 +1,5 @@
 
-
-project.radios = [
+        project.radios = [
     {
         "id": 1,
         "name": "92.7",
